@@ -1,0 +1,29 @@
+#bigContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between; /* Adjust spacing between the columns */
+    overflow: hidden;
+    width: 100%; /* Ensure full width */
+}
+
+.container {
+    width: 55%;
+}
+
+.container2 {
+    width: 45%;
+}
+
+#gameContainer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+
+canvas {
+    border: 1.5vh solid black;
+    width: 100%; /* Ensure canvas fills its container */
+    height: auto; /* Maintain aspect ratio */
+}
