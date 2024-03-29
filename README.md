@@ -4,6 +4,8 @@ In this project I have created a simple website where the users can login and re
 To run the project on your local machine just clone the entire repository, install the needed python libraries and then run main.py
 
 Website Home Page:
+<img width="950" alt="website-home2" src="https://github.com/Vivaswaan/game-web-app/assets/114609093/49134507-4d24-435b-a5a2-f53bebd664be">
+
 <img width="958" alt="website-home" src="https://github.com/Vivaswaan/game-web-app/assets/114609093/1d9e3428-348d-478c-9f9f-9a9a2755ce07">
 
 Website Sign Up Page:
